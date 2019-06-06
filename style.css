@@ -1,0 +1,30 @@
+
+.jumbotron {
+    color: white;
+    margin-top: 25px;
+    background-image: url("my-eyes2.jpg");
+    background-size: cover;
+    height: 300px;
+}
+footer {
+    text-align: right;
+    margin-top: 20px;
+    font-size: 10px;
+    background-color: rgb(43, 3, 3);
+}
+.button {
+    margin-top: 30px;
+}
+
+/* I wasn't able to do the media screen because I didn't understand it.  Before class, Eric told me to turn the homework as is so I can concentrate on Javascript. Please feel free to dock me any points. */
+
+@media screen and (max-width: 980px) {
+
+}
+@media screen and (max-width: 768px) {
+    
+    }
+@media screen and (max-width: 640) {
+
+  }
+  
